@@ -1,1 +1,1 @@
-var recipe = { eggs: 3 };
+var recipes = { eggs: 3 };
